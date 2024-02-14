@@ -2,6 +2,8 @@
 
 My_Hunter is a reproduction of famous "Duck Hunt" game released in 1984.
 
+This project is the fist graphical project we make with CSFML, wich is a good introduction to video-game making 
+
 ## Installation
 
 Use a GCC compiler and CSFML lib.
