@@ -17,3 +17,6 @@ Use a make command to compile the program and then use the executable to use it.
 ```
 make && ./my_hunter
 ```
+
+![Screenshot from 2024-02-13 15-43-27](https://github.com/SaltyyCode/My_Hunter/assets/141867236/e474cf18-1af1-4c12-bb8e-cf562c934a7c)
+
